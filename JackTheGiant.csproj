@@ -220,6 +220,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Background Scripts\BGScaler.cs" />
+    <Compile Include="Assets\Scripts\Camera Scripts\CameraScript.cs" />
     <Compile Include="Assets\Scripts\Cloud Collector Scripts\CloudCollector.cs" />
     <Compile Include="Assets\Scripts\Cloud Collector Scripts\CloudSpawner.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\Player.cs" />
