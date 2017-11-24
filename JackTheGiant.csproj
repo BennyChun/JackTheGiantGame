@@ -226,6 +226,7 @@
     <Compile Include="Assets\Scripts\Cloud Collector Scripts\CloudCollector.cs" />
     <Compile Include="Assets\Scripts\Cloud Collector Scripts\CloudSpawner.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\PlayerBounds.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Font\readme.txt" />
